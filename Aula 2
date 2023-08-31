@@ -1,3 +1,7 @@
+#alunos: 
+João Henrique Machado da Cunha 
+João Victor Machado da Cunha 
+
 #funções modulares
 #cadastrar os dados do aluno:
 def cadastrar_aluno():
