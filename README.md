@@ -8,7 +8,7 @@ for numeros in range(1,101):
    print(numeros,end=";")
 arquivo.close()
 
-Exemplo 2
+#Exemplo 2
  def registrar_nota(aluno, nota):
     with open('notas.txt', 'a') as arquivo:
         arquivo.write(f'{aluno}: {nota}\n')
